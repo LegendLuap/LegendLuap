@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LegendLuap
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: legendluap (Discord)
